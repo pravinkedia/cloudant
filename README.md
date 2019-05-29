@@ -1,1 +1,3 @@
-# cloudant
+# Cloudant
+
+## Steps to install Cloudant
